@@ -204,3 +204,6 @@ mv header.png ./client/assets/images
 find
 find -name header.png
 find -name footer.jpeg
+move footer.jpeg client/assets/images
+mv footer.jpeg client/assets/images
+mv ./images/footer.jpeg client/assets/images
