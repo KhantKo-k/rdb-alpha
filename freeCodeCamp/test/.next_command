@@ -198,3 +198,4 @@ cd images
 mv header.png ..
 ls --color=auto
 cd ..
+ls --color=auto
