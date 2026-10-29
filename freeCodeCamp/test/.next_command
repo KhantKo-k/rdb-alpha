@@ -116,3 +116,4 @@ mkdir website
 ls --color=auto
 cd websiter
 cd website
+ls --color=auto
