@@ -139,3 +139,4 @@ touch CodeAlly.svg
 cd CodeRoad.svg
 touch CodeRoad.svg
 touch freeCodeCamp.svg
+ls --color=auto
